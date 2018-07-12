@@ -1,4 +1,4 @@
-# must.css
+# MustCss
 You can customize the look! For Kanboard
 
 CSS plugin
