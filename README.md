@@ -14,5 +14,6 @@ Installation
 
 # Screenshot
 
-![Alt text](https://raw.githubusercontent.com/kenlog/must.css/master/screen-kb.png "Screenshot")
-![Alt text](https://raw.githubusercontent.com/kenlog/must.css/master/screen-task.jpg "Screenshot task")
+![Alt text](https://raw.githubusercontent.com/kenlog/must.css/master/screen-board.jpg)
+![Alt text](https://raw.githubusercontent.com/kenlog/must.css/master/screen-task-1.jpg)
+![Alt text](https://raw.githubusercontent.com/kenlog/must.css/master/screen-task-2.jpg)
