@@ -1,5 +1,5 @@
 /*!
- * must.css -https://iltuobrand.it
+ * must.css - https://iltuobrand.it
  * Version - 1.0.0
  * Licensed under the MIT license - http://opensource.org/licenses/MIT
  *
@@ -27,6 +27,9 @@ td {
 
 header {
     border-bottom: none;
+	box-shadow: 0px 1px 3px 0 rgba(46,61,73,.12);
+    padding: 15px 10px;
+    margin-bottom: 15px;
 }
 
 label {
@@ -38,6 +41,8 @@ label {
     margin-bottom: 8px;
     padding: 12px;
     border-radius: 6px;
+	box-shadow: 0px 5px 5px 0 rgba(46,61,73,.12);
+	border: none;
 }
 
 .task-board-title {
@@ -61,8 +66,22 @@ label {
     padding: 20px;
 }
 
+.task-summary-container {
+    border: none;
+    border-radius: 7px;
+    border-bottom: 5px solid;
+    padding: 20px;
+}
+
 .table-small {
     font-size: 1em;
+}
+
+table th {
+    text-align: left;
+    padding: 0.7em 3px;
+    border: 1px solid #eee;
+    background: #fbfbfb;
 }
 
 .sidebar ul {
@@ -233,10 +252,11 @@ padding: 10px;
     border-radius: 5px;
 }
 .sidebar {
-    background-color: #f7f7f7;
+	background-color: #f7f7f7;
     padding: 7px;
-    border-radius: 5px;
-    border: 0px solid #ccc;
+    border-radius: 7px;
+    border-left: 2px solid #e9e9e9;
+    box-shadow: 1px 0px 7px 0 rgba(46,61,73,.12);
 }
 input[type="number"]:focus, input[type="date"]:focus, input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focus {
     color: #000;
