@@ -14,6 +14,6 @@ Installation
 
 # Screenshot
 
-![Alt text](https://raw.githubusercontent.com/kenlog/must.css/master/screen-board.jpg)
-![Alt text](https://raw.githubusercontent.com/kenlog/must.css/master/screen-task-1.jpg)
-![Alt text](https://raw.githubusercontent.com/kenlog/must.css/master/screen-task-2.jpg)
+![screen-board](https://user-images.githubusercontent.com/11728231/42648193-76979d24-8606-11e8-859d-54d55eebd9b6.jpg)
+![screen-task-1](https://user-images.githubusercontent.com/11728231/42648205-806cba5a-8606-11e8-83c6-c641b9289932.jpg)
+![screen-task-2](https://user-images.githubusercontent.com/11728231/42648210-83fcd7fe-8606-11e8-80a5-5e1bd0a672f7.jpg)
