@@ -1,5 +1,5 @@
 # MustCss
-You can customize the look! For Kanboard
+Theme for Kanboard
 
 CSS plugin
 =====================
