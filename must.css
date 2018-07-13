@@ -248,9 +248,11 @@ textarea:focus {
 }
 input[type="number"], input[type="date"], input[type="email"], input[type="password"], input[type="text"]:not(.input-addon-field) {
 	padding:3px;
+	transition: box-shadow 1s;
 }
 .text-editor textarea{
 	padding:3px;
+	transition: box-shadow 1s;
 }
 select{
 	border: 1px solid #ccc;
