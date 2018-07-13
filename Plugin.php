@@ -27,6 +27,6 @@ class Plugin extends Base
     }
     public function getPluginHomepage()
     {
-        return 'https://github.com/kenlog/must.css';
+        return 'https://github.com/kenlog/MustCss';
     }
 }
