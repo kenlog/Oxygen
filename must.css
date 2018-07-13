@@ -77,6 +77,11 @@ table th {
 	border: 1px solid #eee;
 	background: #fbfbfb;
 }
+table td {
+    border: none;
+    padding: 0.5em 7px;
+    vertical-align: top;
+}
 .sidebar ul {
 	padding-bottom: 20px;
 	border-bottom: 1px solid #ddd;
