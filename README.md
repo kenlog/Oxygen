@@ -1,5 +1,5 @@
 # MustCss
-Theme for Kanboard
+Theme for Kanboard - Kanban project management software
 
 CSS plugin
 ------------
@@ -14,6 +14,7 @@ Installation
 
 Requirements
 ------------
+
 Kanboard installed at a web server.
 You can find the download at [kanboard.org](https://kanboard.org/)
 
