@@ -2,7 +2,7 @@
 Theme for Kanboard
 
 CSS plugin
-=====================
+------------
 
 This plugin add a new stylesheet and override default styles.
 
@@ -11,6 +11,11 @@ Installation
 
 - Create a directory **MustCss** under the folder **plugins**
 - Copy all source files into this new directory
+
+Requirements
+------------
+Kanboard installed at a web server.
+You can find the download at [https://kanboard.org/](url)
 
 # Screenshot
 
