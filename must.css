@@ -203,6 +203,9 @@ a i.web-notification-icon {
 #modal-box {
 	padding: 10px;
 }
+.table-list-category {
+    padding: 2px 2px 2px 5px;
+}
 .table-list-row:hover {
 	background: #f5f5f5;
 	border-bottom: 1px solid #f7f7f7;
