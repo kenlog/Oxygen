@@ -156,6 +156,9 @@ table th {
 	margin: 10px 0 0 -10px;
 	padding: 0;
 }
+.select-dropdown-input-container {
+    max-width: 300px;
+}
 .dropdown-submenu-open li:nth-child(even) {
 	background-color: #f7f7f7;
 }
