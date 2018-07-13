@@ -6,17 +6,22 @@ CSS plugin
 
 This plugin add a new stylesheet and override default styles.
 
+Requirements
+------------
+
+Kanboard installed at a web server.
+You can find the download at [kanboard.org](https://kanboard.org/)
+
 Installation
 ------------
 
 - Create a directory **MustCss** under the folder **plugins**
 - Copy all source files into this new directory
 
-Requirements
+Author
 ------------
-
-Kanboard installed at a web server.
-You can find the download at [kanboard.org](https://kanboard.org/)
+- Valentino Pesce
+- License MIT
 
 # Screenshot
 
