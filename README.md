@@ -15,7 +15,7 @@ Installation
 Requirements
 ------------
 Kanboard installed at a web server.
-You can find the download at [https://kanboard.org/](url)
+You can find the download at [kanboard.org](https://kanboard.org/)
 
 # Screenshot
 
