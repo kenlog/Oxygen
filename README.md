@@ -20,6 +20,6 @@ You can find the download at [kanboard.org](https://kanboard.org/)
 
 # Screenshot
 
-![screen-board](https://user-images.githubusercontent.com/11728231/42648193-76979d24-8606-11e8-859d-54d55eebd9b6.jpg)
-![screen-task-1](https://user-images.githubusercontent.com/11728231/42648205-806cba5a-8606-11e8-83c6-c641b9289932.jpg)
-![screen-task-2](https://user-images.githubusercontent.com/11728231/42648210-83fcd7fe-8606-11e8-80a5-5e1bd0a672f7.jpg)
+![screen-task-2](https://user-images.githubusercontent.com/11728231/42684378-2a63da46-8690-11e8-8368-fbaa02597789.jpg)
+![screen-task-1](https://user-images.githubusercontent.com/11728231/42684379-2aa62748-8690-11e8-8559-8742ecf40ce5.jpg)
+![screen-board](https://user-images.githubusercontent.com/11728231/42684380-2ad07520-8690-11e8-9428-2ee4b760909d.jpg)
