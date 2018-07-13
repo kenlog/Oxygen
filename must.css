@@ -238,13 +238,13 @@ input[type="number"]:focus, input[type="date"]:focus, input[type="email"]:focus,
 	color: #000;
 	border-color: #336699;
 	outline: 0;
-	box-shadow: none;
+	box-shadow: 0 0 0 0.2rem rgba(222,222,222,0.25);
 }
 textarea:focus {
 	color: #000;
 	border-color: #336699;
 	outline: 0;
-	box-shadow: none;
+	box-shadow: 0 0 0 0.2rem rgba(222,222,222,0.25);
 }
 input[type="number"], input[type="date"], input[type="email"], input[type="password"], input[type="text"]:not(.input-addon-field) {
 	padding:3px;
