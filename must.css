@@ -271,6 +271,7 @@ select{
 	border-color: #336699;
 	background: #336699;
 	color: #fff;
+	background-image: linear-gradient(-180deg, #336699 0%, #003087 90%);
 }
 .btn-blue:hover, .btn-blue:focus {
 	border-color: #336699;
