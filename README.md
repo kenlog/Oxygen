@@ -18,7 +18,7 @@ Installation
 
 Add options for the theme
 ------------
-- Replace the KB logo with your own logo
+- Replace the KB logo with your own logo  
 For more information have a look in the config.php
 
 Author
