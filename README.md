@@ -7,7 +7,7 @@ This plugin add a new stylesheet and override default styles.
 
 Requirements
 ------------
-Kanboard >= 1.2.2  
+Kanboard >= v1.2.5  
 Kanboard installed at a web server.
 You can find the download at [kanboard.org](https://kanboard.org/)
 
