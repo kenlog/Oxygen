@@ -8,4 +8,4 @@
 // The file should be to 50 Pixel is a good height
 // Uncomment the next line. 
 
-$themeMustCssConfig['logo'] = 'brand-logo.png';
+// $themeMustCssConfig['logo'] = 'brand-logo.png';
