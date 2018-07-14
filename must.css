@@ -34,6 +34,16 @@ header {
 	padding: 15px 10px;
 	margin-bottom: 15px;
 }
+.header img {
+  float: left;
+}
+.header h2 {
+  position: relative;
+  color:#336699;
+  top: 13px;
+  left: 10px;
+  margin: 0;
+}
 label {
 	font-weight: bold;
 	margin-top: 18px;
