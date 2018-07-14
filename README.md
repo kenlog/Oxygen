@@ -13,6 +13,11 @@ You can find the download at [kanboard.org](https://kanboard.org/)
 
 Installation
 ------------
+Open the terminal in the plugin folder. Note that you don't need to create a new directory for MustCss, as cloning the repository via git will create a directory for you. 
+
+Now, clone the repository: ```git clone https://github.com/kenlog/MustCss.git```
+
+**otherwise**
 - Create a directory **MustCss** under the folder **plugins**
 - Copy all source files into this new directory
 
