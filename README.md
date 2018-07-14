@@ -16,6 +16,11 @@ Installation
 - Create a directory **MustCss** under the folder **plugins**
 - Copy all source files into this new directory
 
+Add options for the theme
+------------
+- Replace the KB logo with your own logo
+For more information have a look in the config.php
+
 Author
 ------------
 - Valentino Pesce
