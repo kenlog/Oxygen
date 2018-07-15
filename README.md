@@ -1,9 +1,9 @@
 # MustCss
 Theme for Kanboard - Kanban project management software
 
-CSS plugin
+MustCss plugin
 ------------
-This plugin add a new stylesheet and override default styles.
+It has purpose oriented design, responsive layout and special features like replace the logo KB and Syntax highlight in markdown code by Prism.
 
 Requirements
 ------------
