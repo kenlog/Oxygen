@@ -22,7 +22,7 @@ class Plugin extends Base
 		
         $this->hook->on("template:layout:css", array("template" => "plugins/MustCss/must.css"));
 
-        $this->hook->on("template:layout:css", array("template" => "plugins/MustCss/Asset/js/prism.css"));
+        $this->hook->on("template:layout:css", array("template" => "plugins/MustCss/Asset/css/prism.css"));
 
         $this->hook->on('template:layout:js', array('template' => 'plugins/MustCss/Asset/js/prism.js'));
     }
