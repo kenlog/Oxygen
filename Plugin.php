@@ -20,11 +20,11 @@ class Plugin extends Base
             $this->template->setTemplateOverride('header/title', 'MustCss:layout/header/title');
         }
 		
-        $this->hook->on("template:layout:css", array("template" => "plugins/MustCss/Asset/css/must.css"));
+        $this->hook->on("template:layout:css", array("template" => "plugins/MustCss/Assets/css/must.css"));
 
-        $this->hook->on("template:layout:css", array("template" => "plugins/MustCss/Asset/css/prism.css"));
+        $this->hook->on("template:layout:css", array("template" => "plugins/MustCss/Assets/css/prism.css"));
 
-        $this->hook->on('template:layout:js', array('template' => 'plugins/MustCss/Asset/js/prism.js'));
+        $this->hook->on('template:layout:js', array('template' => 'plugins/MustCss/Assets/js/prism.js'));
     }
 
     public function getPluginName()
