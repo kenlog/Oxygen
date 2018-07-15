@@ -3,7 +3,7 @@
     <?php if (!isset($themeMustCssConfig['logo'])) : ?>
         <?= $this->url->link('K<span>B</span>', 'DashboardController', 'show', array(), false, '', t('Dashboard')) ?>
     <?php else: ?>
-        <?= $this->url->link('<img src="'.$this->url->dir().'plugins/MustCss/Asset/images/'.$themeMustCssConfig['logo'].'" />', 'DashboardController', 'show', array(), false, '', t('Dashboard')) ?>
+        <?= $this->url->link('<img src="'.$this->url->dir().'plugins/MustCss/Assets/images/'.$themeMustCssConfig['logo'].'" />', 'DashboardController', 'show', array(), false, '', t('Dashboard')) ?>
     <?php endif ?>
     <h2>
         <?php if (! empty($project) && ! empty($task)): ?>
