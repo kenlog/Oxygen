@@ -36,7 +36,7 @@ class Plugin extends Base
 
     public function getPluginDescription()
     {
-        return t('It has purpose oriented design, responsive layout and special features like replace the logo KB and Syntax highlight in markdown code by Prism.');
+        return t('This plugin allows you to and special features like replace the logo KB and Syntax highlight in markdown code by Prism.');
     }
 
     public function getPluginAuthor()

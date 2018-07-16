@@ -3,7 +3,7 @@ Theme for Kanboard - Kanban project management software
 
 MustCss plugin
 ------------
-It has purpose oriented design, responsive layout and special features like replace the logo KB and Syntax highlight in markdown code by Prism.
+This plugin allows you to and special features like replace the logo KB and Syntax highlight in markdown code by Prism.
 
 Requirements
 ------------
