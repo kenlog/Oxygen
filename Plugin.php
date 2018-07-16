@@ -49,14 +49,14 @@ class Plugin extends Base
         return '1.2.1';
     }
 
-    public function getPluginHomepage()
-    {
-        return 'https://github.com/kenlog/MustCss';
-    }
-
     public function getCompatibleVersion()
     {
         return '>=1.2.5';
+    }
+
+    public function getPluginHomepage()
+    {
+        return 'https://github.com/kenlog/MustCss';
     }
 
 }
