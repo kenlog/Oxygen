@@ -15,7 +15,10 @@ Installation
 ------------
 Open the terminal in the plugins folder. Note that you don't need to create a new directory for MustCss, as cloning the repository via git will create a directory for you. 
 
-Now, clone the repository: ```git clone https://github.com/kenlog/MustCss.git```
+Now, clone the repository: 
+```console 
+git clone https://github.com/kenlog/MustCss.git
+```
 
 **otherwise**
 - Create a directory **MustCss** under the folder **plugins**
