@@ -54,4 +54,9 @@ class Plugin extends Base
         return 'https://github.com/kenlog/MustCss';
     }
 
+    public function getCompatibleVersion()
+    {
+        return '>=1.2.5';
+    }
+
 }
