@@ -24,6 +24,8 @@ class Plugin extends Base
 
         $this->hook->on("template:layout:css", array("template" => "plugins/MustCss/Assets/css/prism.css"));
 
+        $this->hook->on('template:layout:js', array('template' => 'plugins/MustCss/Assets/js/clipboard.min.js'));
+
         $this->hook->on('template:layout:js', array('template' => 'plugins/MustCss/Assets/js/prism.js'));
     }
 
