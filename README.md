@@ -46,12 +46,12 @@ Author
 - Valentino Pesce
 - License MIT
 
-Reporting Issues
-------------
-Please [create an issue](https://github.com/kenlog/MustCss/issues) for any bugs you've found.
-
 # Screenshot
 ![screen-board-3](https://user-images.githubusercontent.com/11728231/42727267-b8754144-87a3-11e8-8c3d-6151fa92b76d.jpg)
 ![screen-task-2](https://user-images.githubusercontent.com/11728231/42726115-91f9972c-878f-11e8-83b6-ef533f34327e.jpg)
 ![screen-task-1](https://user-images.githubusercontent.com/11728231/42726116-922fd0bc-878f-11e8-99da-76aecf8fd97d.jpg)
 ![screen-highlight](https://user-images.githubusercontent.com/11728231/42735774-4bcaa50e-885a-11e8-8018-0649620ce795.jpg)
+
+Reporting Issues
+------------
+Please [create an issue](https://github.com/kenlog/MustCss/issues) for any bugs you've found.
