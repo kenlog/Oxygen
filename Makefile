@@ -1,4 +1,5 @@
-PLUGIN_NAME = MustCss
-
+plugin = MustCss
+version = 1.2.1
 all:
-	@ git archive HEAD --prefix=${PLUGIN_NAME}/ --format=zip -o ${PLUGIN_NAME}.zip
+	@ echo "Build archive for plugin ${plugin} version=${version}"
+	@ git archive HEAD --prefix=${plugin}/ --format=zip -o ${plugin}-${version}.zip
