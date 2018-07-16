@@ -21,6 +21,8 @@ Now, clone the repository: ```git clone https://github.com/kenlog/MustCss.git```
 - Create a directory **MustCss** under the folder **plugins**
 - Copy all source files into this new directory
 
+Note: Plugin folder is case-sensitive.
+
 Add options for the theme
 ------------
 - Replace the KB logo with your own logo  
