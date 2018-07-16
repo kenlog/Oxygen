@@ -28,10 +28,10 @@ Add options for the theme
 - Replace the KB logo with your own logo  
 For more information have a look in the config.php
 
-Syntax highlight code by Prism
+Syntax highlight code Markdown  
 ------------
 151 languages currently supported by Prism, with their corresponding alias, to use in place of php
-- Here's a quick example of Markdown in Prism action:  
+- Here's a quick example of Prism in action:  
 ```diff
 -```
 +```php
