@@ -11,7 +11,8 @@ class Plugin extends Base
     {
         global $themeOxygenConfig;
 
-        if (file_exists('plugins/Oxygen/config.php')) {
+        if (file_exists('plugins/Oxygen/config.php')) 
+        {
             require_once('plugins/Oxygen/config.php');
         }
 
