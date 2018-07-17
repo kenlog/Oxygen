@@ -1,6 +1,6 @@
 <?php
 
-namespace Kanboard\Plugin\MustCss;
+namespace Kanboard\Plugin\Oxygen;
 
 use Kanboard\Core\Plugin\Base;
 
@@ -9,29 +9,29 @@ class Plugin extends Base
 
     public function initialize()
     {
-        global $themeMustCssConfig;
+        global $themeOxygenConfig;
 
-        if (file_exists('plugins/MustCss/config.php')) {
-            require_once('plugins/MustCss/config.php');
+        if (file_exists('plugins/Oxygen/config.php')) {
+            require_once('plugins/Oxygen/config.php');
         }
 
-        if (isset($themeMustCssConfig['logo'])) 
+        if (isset($themeOxygenConfig['logo'])) 
         {
-            $this->template->setTemplateOverride('header/title', 'MustCss:layout/header/title');
+            $this->template->setTemplateOverride('header/title', 'Oxygen:layout/header/title');
         }
 		
-        $this->hook->on("template:layout:css", array("template" => "plugins/MustCss/Assets/css/must.css"));
+        $this->hook->on("template:layout:css", array("template" => "plugins/Oxygen/Assets/css/must.css"));
 
-        $this->hook->on("template:layout:css", array("template" => "plugins/MustCss/Assets/css/prism.css"));
+        $this->hook->on("template:layout:css", array("template" => "plugins/Oxygen/Assets/css/prism.css"));
 
-        $this->hook->on('template:layout:js', array('template' => 'plugins/MustCss/Assets/js/clipboard.min.js'));
+        $this->hook->on('template:layout:js', array('template' => 'plugins/Oxygen/Assets/js/clipboard.min.js'));
 
-        $this->hook->on('template:layout:js', array('template' => 'plugins/MustCss/Assets/js/prism.js'));
+        $this->hook->on('template:layout:js', array('template' => 'plugins/Oxygen/Assets/js/prism.js'));
     }
 
     public function getPluginName()
     {
-        return 'Must CSS';
+        return 'Oxygen';
     }
 
     public function getPluginDescription()
@@ -56,7 +56,7 @@ class Plugin extends Base
 
     public function getPluginHomepage()
     {
-        return 'https://github.com/kenlog/MustCss';
+        return 'https://github.com/kenlog/oxygen';
     }
 
 }

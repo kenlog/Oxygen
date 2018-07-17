@@ -1,4 +1,4 @@
-plugin = MustCss
+plugin = Oxygen
 
 all:
 	@ echo "Build archive for plugin ${plugin}"

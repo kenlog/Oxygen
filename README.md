@@ -1,7 +1,7 @@
-# MustCss
+# Oxygen
 Theme for Kanboard - Kanban project management software
 
-MustCss plugin
+Oxygen plugin
 ------------
 This plugin allows you to and special features like replace the logo KB and Syntax highlight in markdown code by Prism.
 
@@ -13,15 +13,15 @@ You can find the download at [kanboard.org](https://kanboard.org/)
 
 Installation
 ------------
-Open the terminal in the plugins folder. Note that you don't need to create a new directory for MustCss, as cloning the repository via git will create a directory for you. 
+Open the terminal in the plugins folder. Note that you don't need to create a new directory for Oxygen, as cloning the repository via git will create a directory for you. 
 
 Now, clone the repository: 
 ```console 
-git clone https://github.com/kenlog/MustCss.git
+git clone https://github.com/kenlog/Oxygen.git
 ```
 
 **otherwise**
-- Create a directory **MustCss** under the folder **plugins**
+- Create a directory **Oxygen** under the folder **plugins**
 - Copy all source files into this new directory
 
 Note: Plugin folder is case-sensitive.
@@ -59,4 +59,4 @@ Author
 
 Reporting Issues
 ------------
-Please [create an issue](https://github.com/kenlog/MustCss/issues) for any bugs you've found.
+Please [create an issue](https://github.com/kenlog/Oxygen/issues) for any bugs you've found.
