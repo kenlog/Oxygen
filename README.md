@@ -34,7 +34,7 @@ For more information have a look in the config.php
 Syntax highlight code Markdown  
 ------------
 151 languages currently supported by Prism, with their corresponding alias, to use in place of php
-- Here's a quick example of Prism in action:  
+- And if you'd like to use syntax highlighting, include the language:  
 ```diff
 -```
 +```php
