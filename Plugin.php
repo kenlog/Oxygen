@@ -20,7 +20,7 @@ class Plugin extends Base
             $this->template->setTemplateOverride('header/title', 'Oxygen:layout/header/title');
         }
 		
-        $this->hook->on("template:layout:css", array("template" => "plugins/Oxygen/Assets/css/must.css"));
+        $this->hook->on("template:layout:css", array("template" => "plugins/Oxygen/Assets/css/oxygen.css"));
 
         $this->hook->on("template:layout:css", array("template" => "plugins/Oxygen/Assets/css/prism.css"));
 
