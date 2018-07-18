@@ -3,7 +3,7 @@ Theme for Kanboard - Kanban project management software
 
 Oxygen plugin
 ------------
-This plugin allows you to and special features like replace the logo KB and Syntax highlight in markdown code by Prism.
+This theme allows you to add special features like replacing the logo and adds syntax highlighting for Markdown code.
 
 Requirements
 ------------
@@ -31,7 +31,7 @@ Add options for the theme
 - Replace the KB logo with your own logo  
 For more information have a look in the config.php
 
-Syntax highlight code Markdown  
+Syntax highlighting for Markdown code
 ------------
 151 languages currently supported by Prism, with their corresponding alias, to use in place of php
 - And if you'd like to use syntax highlighting, include the language:  
