@@ -37,7 +37,7 @@ class Plugin extends Base
 
     public function getPluginDescription()
     {
-        return t('This plugin allows you to and special features like replace the logo KB and Syntax highlight in markdown code by Prism.');
+        return t('This theme allows you to add special features like replacing the logo and adds syntax highlighting for Markdown code.');
     }
 
     public function getPluginAuthor()
