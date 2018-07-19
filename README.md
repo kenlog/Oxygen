@@ -36,9 +36,15 @@ For more information have a look in the config.php
 
 Syntax highlighting for Markdown code
 ------------
-151 languages currently supported by Prism, with their corresponding alias, to use in place of php
-- And if you'd like to use syntax highlighting, include the language:  
+151 languages currently supported by Prism, with their corresponding alias, to use in place of xxxx
+ 
 ```diff
+-```xxxx
+class BaseClass {
+    function __construct() {
+        print "In BaseClass constructor\n";
+    }
+}
 -```
 +```php
 class BaseClass {
