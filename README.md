@@ -1,9 +1,17 @@
-# Oxygen
-Theme for Kanboard - Kanban project management software
+# Oxygen plugin for Kanboard
 
-Oxygen plugin
-------------
 This theme allows you to add special features like replacing the logo and adds syntax highlighting for Markdown code.
+
+# Screenshot
+![screen-board-3](https://user-images.githubusercontent.com/11728231/42727267-b8754144-87a3-11e8-8c3d-6151fa92b76d.jpg)
+![screen-task-2](https://user-images.githubusercontent.com/11728231/42726115-91f9972c-878f-11e8-83b6-ef533f34327e.jpg)
+![screen-task-1](https://user-images.githubusercontent.com/11728231/42726116-922fd0bc-878f-11e8-99da-76aecf8fd97d.jpg)
+![screen-highlight](https://user-images.githubusercontent.com/11728231/42735774-4bcaa50e-885a-11e8-8018-0649620ce795.jpg)
+
+Author
+------------
+- Valentino Pesce
+- License MIT
 
 Requirements
 ------------
@@ -13,16 +21,11 @@ You can find the download at [kanboard.org](https://kanboard.org/)
 
 Installation
 ------------
-Open the terminal in the plugins folder. Note that you don't need to create a new directory for Oxygen, as cloning the repository via git will create a directory for you. 
+You have the choice between 3 methods:
 
-Now, clone the repository: 
-```console 
-git clone https://github.com/kenlog/Oxygen.git
-```
-
-**otherwise**
-- Create a directory **Oxygen** under the folder **plugins**
-- Copy all source files into this new directory
+1. Install the plugin from the Kanboard plugin manager in one click
+2. Download the zip file and decompress everything under the directory `plugins/Oxygen`
+3. Clone this repository into the folder `plugins/Oxygen`
 
 Note: Plugin folder is case-sensitive.
 
@@ -45,18 +48,12 @@ class BaseClass {
 }
 +```
 ```
-
-Author
+Contributing or modifying the theme
 ------------
-- Valentino Pesce
-- License MIT
-
-# Screenshot
-![screen-board-3](https://user-images.githubusercontent.com/11728231/42727267-b8754144-87a3-11e8-8c3d-6151fa92b76d.jpg)
-![screen-task-2](https://user-images.githubusercontent.com/11728231/42726115-91f9972c-878f-11e8-83b6-ef533f34327e.jpg)
-![screen-task-1](https://user-images.githubusercontent.com/11728231/42726116-922fd0bc-878f-11e8-99da-76aecf8fd97d.jpg)
-![screen-highlight](https://user-images.githubusercontent.com/11728231/42735774-4bcaa50e-885a-11e8-8018-0649620ce795.jpg)
-
+Clone the repository: 
+```console 
+git clone https://github.com/kenlog/Oxygen.git
+```
 Reporting Issues
 ------------
 Please [create an issue](https://github.com/kenlog/Oxygen/issues) for any bugs you've found.
