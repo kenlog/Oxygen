@@ -57,7 +57,7 @@ class Plugin extends Base
 
     public function getPluginHomepage()
     {
-        return 'https://github.com/kenlog/oxygen';
+        return 'https://github.com/kenlog/Oxygen';
     }
 
 }
