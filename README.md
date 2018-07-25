@@ -3,11 +3,11 @@
 This theme allows you to add special features like replacing the logo and adds syntax highlighting for Markdown code.
 
 # Screenshot
-![dashboard](https://user-images.githubusercontent.com/11728231/43210070-7cc977d0-902e-11e8-8642-721fb5a27213.jpg)
-![board](https://user-images.githubusercontent.com/11728231/43210076-7f6f941a-902e-11e8-99a6-bda107345c7b.jpg)
-![task1](https://user-images.githubusercontent.com/11728231/43210080-80be464a-902e-11e8-8c78-b39da8667a0a.jpg)
-![task2](https://user-images.githubusercontent.com/11728231/43210082-82032d18-902e-11e8-9248-7512ed04e954.jpg)
-![task3](https://user-images.githubusercontent.com/11728231/43210086-83afb302-902e-11e8-9024-102c00923661.jpg)
+![dashboard](https://user-images.githubusercontent.com/11728231/43210967-c7ed5158-9030-11e8-86ed-ec11147d5ecd.jpg)
+![board](https://user-images.githubusercontent.com/11728231/43210970-c94007bc-9030-11e8-9ef9-06f6fe5a7ca2.jpg)
+![task1](https://user-images.githubusercontent.com/11728231/43210973-ca70ea2a-9030-11e8-98f6-c3358dc30b04.jpg)
+![task2](https://user-images.githubusercontent.com/11728231/43210981-cbea6b9c-9030-11e8-8620-5747439a3dab.jpg)
+![task3](https://user-images.githubusercontent.com/11728231/43210987-cda78a5a-9030-11e8-9b6e-797148fbd4a4.jpg)
 
 Author
 ------------
