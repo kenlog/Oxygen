@@ -8,4 +8,4 @@
 // The file should be to 50 Pixel is a good height
 // Uncomment the next line. 
 
-// $themeOxygenConfig['logo'] = 'brand-logo.png';
+$themeOxygenConfig['logo'] = 'brand-logo.png';
