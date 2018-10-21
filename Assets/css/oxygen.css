@@ -142,18 +142,18 @@ table td {
 	padding: 4px 8px;
 }
 .board-add-icon {
-	padding: 0;
-	margin-right: 12px;
+    float: left;
+    padding: 0 5px
 }
-.board-add-icon a {
-	color: #90;
-	padding: 0px 6px 3px 6px;
-	margin-bottom: -4px;
+.board-add-icon i {
+    text-decoration: none;
+    color: #279f43;
+    font-size: 1.4em
 }
-.board-add-icon a:hover {
-	border-radius: 100%;
-	background-color: #90;
-	color: #fff;
+.board-add-icon i:focus,
+.board-add-icon i:hover {
+    text-decoration: none;
+    color: #23292d
 }
 .form-column select {
 	font-size: 1.2em;
@@ -189,7 +189,7 @@ table td {
 	margin: 6px 0 0 8px;
 }
 .markdown pre {
-	background: #eff0f1;
+	background: #242729;
 	max-height: 600px;
 	overflow: auto;
 	margin-bottom: 1em;
