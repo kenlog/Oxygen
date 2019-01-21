@@ -1,3 +1,4 @@
+[![Latest release](https://img.shields.io/github/release/kenlog/Oxygen.svg)](https://github.com/kenlog/Oxygen/releases)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/kenlog/Oxygen/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kenlog/Oxygen/graphs/contributors)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]()
